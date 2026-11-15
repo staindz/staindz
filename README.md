@@ -1,4 +1,9 @@
-![text - text](https://img.shields.io/static/v1?label=text&message=text&color=blue&logo=github)
+![text - text](https://img.shields.io/static/v1?label=text&message=text&color=blue&logo=github) 
+<p align="right">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 <p align="center">
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
