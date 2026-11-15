@@ -51,7 +51,8 @@
   <p align="center">
 <img src="https://img.shields.io/static/v1?label=%E3%80%80%E1%98%9E+%CB%9A&message=%E3%80%80%EA%92%B0%E0%B9%91+'+++'+%E0%B9%91%EA%92%B1&color=6f70d0&logo=github" alt="　ᘞ ˚ - 　꒰๑ '   ' ๑꒱">
 </p>
-<h2>ㅤㅤi believe that good things only come to those who wait　　</h2>
+<h2>ㅤㅤωh۫ყ   Ꮷօ ༷   ե༷hᥱ۫ಽᥱ   ᥱყ༷ᥱ۫ಽ  ݂   ༷⁾   օ༷ƒ   ოι۫ոᥱ   𝖼𝗋ყ？⋮  ﹚₊
+ 　　</h2>
 <p>ㅤusually afk or offtab (ᵕ—_—) always int!　　</p>
 </td>
 <td width="250" align="center">
