@@ -26,12 +26,14 @@
 
 <p>ㅤ　　</p>
 
-$\color{rgb(125,79,191)}{\textsf{𝙠}}\color{rgb(129,85,191)}{\textsf{০}}\color{rgb(133,91,191)}{\textsf{d}}\color{rgb(137,98,191)}{\textsf{i}}\color{rgb(140,103,191)}{\textsf{ᥱ}}\hspace{1em}\color{rgb(142,110,191)}{\textsf{ỿ}}\color{rgb(141,117,191)}{\textsf{𝔦}}\color{rgb(140,124,191)}{\textsf{ຈ}}\color{rgb(140,132,191)}{\textsf{ｇ}}\hspace{18em}\color{rgb(167,129,193)}{\textsf{𝞼}}\color{rgb(193,127,195)}{\textsf{ᵣ}}\color{rgb(218,126,197)}{\textsf{ხ}}\color{rgb(215,135,194)}{\textsf{𝘳}}\color{rgb(208,146,190)}{\textsf{⍺}}\color{rgb(201,156,185)}{\textsf{ກ}}\color{rgb(194,166,181)}{\textsf{ȥ}}\color{rgb(188,176,177)}{\textsf{𝞬}}$
+$\color{rgb(125,79,191)}{\textsf{𝙠}}\color{rgb(129,85,191)}{\textsf{০}}\color{rgb(133,91,191)}{\textsf{d}}\color{rgb(137,98,191)}{\textsf{i}}\color{rgb(140,103,191)}{\textsf{ᥱ}}\hspace{1em}\color{rgb(142,110,191)}{\textsf{ỿ}}\color{rgb(141,117,191)}{\textsf{𝔦}}\color{rgb(140,124,191)}{\textsf{ຈ}}\color{rgb(140,132,191)}{\textsf{ｇ}}\hspace{18em}\color{rgb(167,129,193)}{\textsf{𝞼}}\color{rgb(193,127,195)}{\textsf{ᵣ}}\hspace{1em}\color{rgb(218,126,197)}{\textsf{ხ}}\color{rgb(215,135,194)}{\textsf{𝘳}}\color{rgb(208,146,190)}{\textsf{⍺}}\color{rgb(201,156,185)}{\textsf{ກ}}\color{rgb(194,166,181)}{\textsf{ȥ}}\color{rgb(188,176,177)}{\textsf{𝞬}}$
 
 <p>　(๑´༥｀๑)</p>
-
- <p>ㅤ　𐒅ᥱ 𐒅𝙞ᙏ　　　　　　　　　　　　　　　　　　　　　　　6ｔ𝙚𝓮ກ　　　ᥑ𝙘ん𝙞ໃໃ𝓮𝓪ກ</p>
-         <p>ㅤ　　　　　...　?>ωdα𝓼ωαdd　。  ˖　　　　　　　　　　　　　　　　　　　　</p>
+$\hspace{1em}\color{rgb(125,79,191)}{\textsf{𐒅}}\color{rgb(130,84,191)}{\textsf{ᥱ}}\hspace{0.4em}\color{rgb(135,90,191)}{\textsf{𐒅}}\color{rgb(140,96,191)}{\textsf{𝙞}}\color{rgb(144,103,191)}{\textsf{ᙏ}}\hspace{18em}\color{rgb(143,110,192)}{\textsf{6}}\color{rgb(140,117,193)}{\textsf{ｔ}}\color{rgb(139,124,194)}{\textsf{𝙚}}\color{rgb(144,130,195)}{\textsf{𝓮}}\color{rgb(153,133,196)}{\textsf{ກ}}\hspace{1em}\color{rgb(167,129,193)}{\textsf{ᥑ}}\color{rgb(181,127,194)}{\textsf{𝙘}}\color{rgb(196,126,196)}{\textsf{ん}}\color{rgb(213,128,197)}{\textsf{𝙞}}\color{rgb(219,136,195)}{\textsf{ໃ}}\color{rgb(215,147,191)}{\textsf{ໃ}}\color{rgb(207,157,187)}{\textsf{𝓮}}\color{rgb(198,167,182)}{\textsf{𝓪}}\color{rgb(188,176,177)}{\textsf{ກ}}$
+<p>ㅤ　　</p>
+　...　　ᥩ𓈒ㅤ　(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ　　𐀴⑅𓈒ֺּׅꕀ
+<p>ㅤ　　</p>
+$\color{rgb(125,79,191)}{\textsf{.}}\color{rgb(132,91,191)}{\textsf{.}}\color{rgb(140,103,191)}{\textsf{.}}\hspace{1em}\color{rgb(141,114,192)}{\textsf{?}}\color{rgb(142,125,193)}{\textsf{>}}\color{rgb(154,127,193)}{\textsf{ω}}\color{rgb(167,129,193)}{\textsf{d}}\color{rgb(180,128,194)}{\textsf{α}}\color{rgb(193,127,195)}{\textsf{𝓼}}\color{rgb(206,126,196)}{\textsf{ω}}\color{rgb(218,126,197)}{\textsf{α}}\color{rgb(216,136,194)}{\textsf{d}}\color{rgb(215,147,191)}{\textsf{d}}\hspace{1em}\color{rgb(202,162,184)}{\textsf{。}}\hspace{0.7em}\color{rgb(188,176,177)}{\textsf{˖}}$
                         <p>ㅤ　　</p>
                         <p>ㅤ　　</p>
 <p align="center">
@@ -55,9 +57,14 @@ $\color{rgb(125,79,191)}{\textsf{𝙠}}\color{rgb(129,85,191)}{\textsf{০}}\col
   <p align="center">
 <img src="https://img.shields.io/static/v1?label=%E3%80%80%E1%98%9E+%CB%9A&message=%E3%80%80%EA%92%B0%E0%B9%91+'+++'+%E0%B9%91%EA%92%B1&color=6f70d0&logo=github" alt="　ᘞ ˚ - 　꒰๑ '   ' ๑꒱">
 </p>
-<h2>ㅤㅤωh۫ყ   Ꮷօ ༷   ե༷hᥱ۫ಽᥱ   ᥱყ༷ᥱ۫ಽ  ݂   ༷⁾   օ༷ƒ   ოι۫ոᥱ   𝖼𝗋ყ？⋮  ﹚₊
+<h2>ㅤㅤ
+
+$\small \color{rgb(125,79,191)}{\textsf{ω}}\color{rgb(128,84,191)}{\textsf{h}}\color{rgb(131,88,191)}{\textsf{۫}}\color{rgb(134,93,191)}{\textsf{ყ}}\hspace{1em}\color{rgb(136,97,191)}{\textsf{Ꮷ}}\color{rgb(139,102,191)}{\textsf{օ}}\hspace{0.5em}\color{rgb(140,106,191)}{\textsf{༷}}\hspace{1em}\color{rgb(141,110,192)}{\textsf{ե}}\color{rgb(141,114,192)}{\textsf{༷}}\color{rgb(141,118,192)}{\textsf{h}}\color{rgb(142,123,193)}{\textsf{ᥱ}}\color{rgb(144,125,193)}{\textsf{۫}}\color{rgb(149,126,193)}{\textsf{ಽ}}\color{rgb(153,127,193)}{\textsf{ᥱ}}\hspace{1em}\color{rgb(158,128,193)}{\textsf{ᥱ}}\color{rgb(163,128,193)}{\textsf{ყ}}\color{rgb(168,129,193)}{\textsf{༷}}\color{rgb(173,129,193)}{\textsf{ᥱ}}\color{rgb(178,128,194)}{\textsf{۫}}\color{rgb(182,128,194)}{\textsf{ಽ}}\hspace{0.5em}\color{rgb(187,127,195)}{\textsf{݂}}\hspace{1em}\color{rgb(192,127,195)}{\textsf{༷}}\color{rgb(197,127,195)}{\textsf{⁾}}\hspace{1em}\color{rgb(202,127,196)}{\textsf{օ}}\color{rgb(207,126,196)}{\textsf{༷}}\color{rgb(211,126,196)}{\textsf{ƒ}}\hspace{1em}\color{rgb(216,126,197)}{\textsf{ო}}\color{rgb(218,128,196)}{\textsf{ι}}\color{rgb(217,132,195)}{\textsf{۫}}\color{rgb(217,136,194)}{\textsf{ո}}\color{rgb(216,140,193)}{\textsf{ᥱ}}\hspace{1em}\color{rgb(215,144,192)}{\textsf{𝖼}}\color{rgb(214,149,190)}{\textsf{𝗋}}\color{rgb(208,154,188)}{\textsf{ყ}}\color{rgb(203,160,185)}{\textsf{？}}\color{rgb(198,165,182)}{\textsf{⋮}}\hspace{0.5em}\color{rgb(193,171,180)}{\textsf{﹚}}\color{rgb(188,176,177)}{\textsf{₊}}$
+
  　　</h2>
-<p>ㅤusually afk or offtab (ᵕ—_—) always int!　　</p>
+<p>　</p>
+$\color{rgb(125,79,191)}{\textsf{u}}\color{rgb(128,84,191)}{\textsf{s}}\color{rgb(131,89,191)}{\textsf{u}}\color{rgb(135,94,191)}{\textsf{a}}\color{rgb(138,99,191)}{\textsf{l}}\color{rgb(140,104,191)}{\textsf{l}}\color{rgb(141,109,192)}{\textsf{y}}\hspace{0.5em}\color{rgb(141,114,192)}{\textsf{a}}\color{rgb(141,118,192)}{\textsf{f}}\color{rgb(142,123,193)}{\textsf{k}}\hspace{0.5em}\color{rgb(145,125,193)}{\textsf{o}}\color{rgb(150,126,193)}{\textsf{r}}\hspace{0.5em}\color{rgb(156,127,193)}{\textsf{o}}\color{rgb(161,128,193)}{\textsf{f}}\color{rgb(166,129,193)}{\textsf{f}}\color{rgb(172,129,193)}{\textsf{t}}\color{rgb(177,128,194)}{\textsf{a}}\color{rgb(183,128,194)}{\textsf{b}}\hspace{0.5em}\color{rgb(188,127,195)}{\textsf{(}}\color{rgb(194,127,195)}{\textsf{ᵕ}}\color{rgb(199,127,195)}{\textsf{—}}\color{rgb(204,127,196)}{\textsf{\_}}\color{rgb(210,126,196)}{\textsf{—}}\color{rgb(215,126,197)}{\textsf{)}}\hspace{0.5em}\color{rgb(218,128,196)}{\textsf{a}}\color{rgb(217,132,195)}{\textsf{l}}\color{rgb(216,137,194)}{\textsf{w}}\color{rgb(216,141,193)}{\textsf{a}}\color{rgb(215,146,191)}{\textsf{y}}\color{rgb(211,151,189)}{\textsf{s}}\hspace{0.5em}\color{rgb(205,158,186)}{\textsf{i}}\color{rgb(199,164,183)}{\textsf{n}}\color{rgb(194,170,180)}{\textsf{t}}\color{rgb(188,176,177)}{\textsf{!}}$
+                        <p>ㅤ　　</p>
 </td>
 <td width="250" align="center">
 <img src="https://github.com/user-attachments/assets/6ddba046-161a-4686-b94b-9ab1e9f27f22" width="250">
@@ -77,8 +84,3 @@ $\color{rgb(125,79,191)}{\textsf{𝙠}}\color{rgb(129,85,191)}{\textsf{০}}\col
     <img src="https://github.com/user-attachments/assets/9dc71982-a43d-4af3-b271-9428d13e8c87" width="150" alt="Site 3">
   </a>
 </p>
-
-<p>
-$\color{rgb(125,79,191)}{\textsf{𝙠}}\color{rgb(129,85,191)}{\textsf{০}}\color{rgb(133,91,191)}{\textsf{d}}\color{rgb(137,98,191)}{\textsf{i}}\color{rgb(140,103,191)}{\textsf{ᥱ}}\hspace{1em}\color{rgb(142,110,191)}{\textsf{ỿ}}\color{rgb(141,117,191)}{\textsf{𝔦}}\color{rgb(140,124,191)}{\textsf{ຈ}}\color{rgb(140,132,191)}{\textsf{ｇ}}\hspace{18em}\color{rgb(167,129,193)}{\textsf{𝞼}}\color{rgb(193,127,195)}{\textsf{ᵣ}}\color{rgb(218,126,197)}{\textsf{ხ}}\color{rgb(215,135,194)}{\textsf{𝘳}}\color{rgb(208,146,190)}{\textsf{⍺}}\color{rgb(201,156,185)}{\textsf{ກ}}\color{rgb(194,166,181)}{\textsf{ȥ}}\color{rgb(188,176,177)}{\textsf{𝞬}}$
-</p>
-
