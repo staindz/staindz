@@ -25,7 +25,7 @@
 </div>
 
   <p>ㅤ　　</p>
-        <p>ㅤ　　  <p>ㅤ　　$\color{rgb(125,79,191)}{\textsf{𝙠}}\color{rgb(129,85,191)}{\textsf{০}}\color{rgb(133,91,191)}{\textsf{d}}\color{rgb(137,98,191)}{\textsf{i}}\color{rgb(140,103,191)}{\textsf{ᥱ}}\hspace{1em}\color{rgb(142,110,191)}{\textsf{ỿ}}\color{rgb(141,117,191)}{\textsf{𝔦}}\color{rgb(140,124,191)}{\textsf{ຈ}}\color{rgb(140,132,191)}{\textsf{ｇ}}\hspace{18em}\color{rgb(167,129,193)}{\textsf{𝞼}}\color{rgb(193,127,195)}{\textsf{ᵣ}}\color{rgb(218,126,197)}{\textsf{ხ}}\color{rgb(215,135,194)}{\textsf{𝘳}}\color{rgb(208,146,190)}{\textsf{⍺}}\color{rgb(201,156,185)}{\textsf{ກ}}\color{rgb(194,166,181)}{\textsf{ȥ}}\color{rgb(188,176,177)}{\textsf{𝞬}}　(๑´༥｀๑)</p>
+       <p>$\color{rgb(125,79,191)}{\textsf{𝙠}}\color{rgb(129,85,191)}{\textsf{০}}\color{rgb(133,91,191)}{\textsf{d}}\color{rgb(137,98,191)}{\textsf{i}}\color{rgb(140,103,191)}{\textsf{ᥱ}}\hspace{1em}\color{rgb(142,110,191)}{\textsf{ỿ}}\color{rgb(141,117,191)}{\textsf{𝔦}}\color{rgb(140,124,191)}{\textsf{ຈ}}\color{rgb(140,132,191)}{\textsf{ｇ}}\hspace{18em}\color{rgb(167,129,193)}{\textsf{𝞼}}\color{rgb(193,127,195)}{\textsf{ᵣ}}\color{rgb(218,126,197)}{\textsf{ხ}}\color{rgb(215,135,194)}{\textsf{𝘳}}\color{rgb(208,146,190)}{\textsf{⍺}}\color{rgb(201,156,185)}{\textsf{ກ}}\color{rgb(194,166,181)}{\textsf{ȥ}}\color{rgb(188,176,177)}{\textsf{𝞬}}　(๑´༥｀๑)</p>
  <p>ㅤ　𐒅ᥱ 𐒅𝙞ᙏ　　　　　　　　　　　　　　　　　　　　　　　6ｔ𝙚𝓮ກ　　　ᥑ𝙘ん𝙞ໃໃ𝓮𝓪ກ</p>
          <p>ㅤ　　　　　...　?>ωdα𝓼ωαdd　。  ˖　　　　　　　　　　　　　　　　　　　　</p>
                         <p>ㅤ　　</p>
