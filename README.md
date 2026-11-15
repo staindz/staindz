@@ -8,11 +8,26 @@
       </td>
       <td width="300" align="center">
         　　　
-          <img src="https://github.com/user-attachments/assets/4c269d92-24c8-44a7-a647-5b30b9608b77" width="300" alt="Alt Text">
-                <p>ㅤ　　</p>
-        <p>ㅤ　　texttexttext　　　　　　　　　　　　　　　　　　　　texttexttext</p>
- <p>ㅤ　　texttexttext　　　　　　　　　　　　　　　　　　　　texttexttext</p>
-         <p>ㅤ　　texttexttext　　　　　　　　　　　　　　　　　　　　texttexttext</p>
+          <details>
+<summary>
+  <img src="https://github.com/user-attachments/assets/7b7ae392-2a28-4f67-8a25-9e8a188fc661"
+       width="150"
+       alt="Toggle">
+</summary>
+
+<br>
+
+[@theholy0ne](https://github.com/theholy0ne) ㅤ[@reignfrost](https://github.com/reignfrost) (THE person ever o_o)ㅤ [@sacrificialgrl](https://github.com/sacrificialgrl)ㅤ[@avenueq](https://github.com/avenueq) (hi avenpoo)ㅤㅤ[@dqno](https://github.com/dqno)ㅤㅤ[@PorphyroRoyal](https://github.com/PorphyroRoyal)ㅤ[@jellykatss](https://github.com/jellykatss)ㅤ[@xcryingchild](https://github.com/xcryingchild) (pet dog)ㅤ[@constrz](https://github.com/constrz)ㅤ[@ogchaoss](https://github.com/ogchaoss) all green names Hi!
+</p>
+
+</details>
+
+</div>
+
+  <p>ㅤ　　</p>
+        <p>ㅤ　　kodie  ying　　　　　　　　　　　　　　　　　　or branzy　(๑´༥｀๑)</p>
+ <p>ㅤ　he him　　　　　　　　　　　　　　　　　　　　　　　6teen　　　achillean</p>
+         <p>ㅤ　　　　　...　?>ωdα𝓼ωαdd　。  ˖　　　　　　　　　　　　　　　　　　　　</p>
                         <p>ㅤ　　</p>
                         <p>ㅤ　　</p>
 <p align="center">
@@ -36,8 +51,8 @@
   <p align="center">
 <img src="https://img.shields.io/static/v1?label=%E3%80%80%E1%98%9E+%CB%9A&message=%E3%80%80%EA%92%B0%E0%B9%91+'+++'+%E0%B9%91%EA%92%B1&color=6f70d0&logo=github" alt="　ᘞ ˚ - 　꒰๑ '   ' ๑꒱">
 </p>
-<h2>ㅤㅤtext　　</h2>
-<p>ㅤtext　　</p>
+<h2>ㅤㅤi believe that good things only come to those who wait　　</h2>
+<p>ㅤusually afk or offtab (ᵕ—_—) always int!　　</p>
 </td>
 <td width="250" align="center">
 <img src="https://github.com/user-attachments/assets/6ddba046-161a-4686-b94b-9ab1e9f27f22" width="250">
