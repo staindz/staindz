@@ -65,7 +65,7 @@ $\color{rgb(125,79,191)}{\textsf{u}}\color{rgb(128,84,191)}{\textsf{s}}\color{rg
                         <p>ㅤ　　</p>
 </td>
 <td width="250" align="center">
-<img src="https://github.com/user-attachments/assets/6ddba046-161a-4686-b94b-9ab1e9f27f22" width="250">
+<img src="https://github.com/user-attachments/assets/6ddba046-161a-4686-b94b-9ab1e9f27f22" width="200">
 </td>
 </tr>
 </table>
