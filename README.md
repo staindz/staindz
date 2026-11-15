@@ -4,7 +4,7 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="300" align="center">
-        <img src="https://github.com/user-attachments/assets/32d55f16-71ad-4c98-a7fe-1d191f2d23fa" width="300">
+        <img src="https://github.com/user-attachments/assets/fab02c47-1448-4791-830b-bb4e51d69d8b" width="200">
       </td>
       <td width="300" align="center">
         　　　
@@ -12,6 +12,9 @@
                 <p>ㅤ　　</p>
         <p>ㅤ　　texttexttext　　　　　　　　　　　　　　　　　　　　texttexttext</p>
  <p>ㅤ　　texttexttext　　　　　　　　　　　　　　　　　　　　texttexttext</p>
+         <p>ㅤ　　texttexttext　　　　　　　　　　　　　　　　　　　　texttexttext</p>
+                        <p>ㅤ　　</p>
+                        <p>ㅤ　　</p>
         <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false"> 
@@ -25,7 +28,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/32d55f16-71ad-4c98-a7fe-1d191f2d23fa" width="250" align="left" hspace="10">
+<img src="https://github.com/user-attachments/assets/f8333a69-f2bb-401f-8f98-683b1be7ec72" width="250" align="left" hspace="10">
 
 <table align="left" width="500">
 <tr>
@@ -37,7 +40,7 @@
 <p>ㅤtext　　</p>
 </td>
 <td width="250" align="center">
-<img src="https://github.com/user-attachments/assets/32d55f16-71ad-4c98-a7fe-1d191f2d23fa" width="250">
+<img src="https://github.com/user-attachments/assets/6ddba046-161a-4686-b94b-9ab1e9f27f22" width="250">
 </td>
 </tr>
 </table>
