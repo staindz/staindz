@@ -28,7 +28,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/f8333a69-f2bb-401f-8f98-683b1be7ec72" width="350" align="left" hspace="10">
+<img src="https://github.com/user-attachments/assets/f8333a69-f2bb-401f-8f98-683b1be7ec72" width="250" align="left" hspace="10">
 
 <table align="left" width="500">
 <tr>
