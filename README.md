@@ -49,7 +49,7 @@ $\color{rgb(125,79,191)}{\textsf{.}}\color{rgb(132,91,191)}{\textsf{.}}\color{rg
 
 
 
-<img src="https://github.com/user-attachments/assets/d7ef4ce5-3405-4d5e-86d0-34c713e8cf6e" width="300" align="left" hspace="5">
+<img src="https://github.com/user-attachments/assets/d7ef4ce5-3405-4d5e-86d0-34c713e8cf6e" width="280" align="left" hspace="5">
 
 <table align="left" width="500">
 <tr>
